@@ -1,26 +1,4 @@
 
-[//]: # (<details>)
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-
-[//]: # (</details>)
 
 <!-- ABOUT THE PROJECT -->
 
@@ -30,7 +8,6 @@
 
 This project aims to complete a test (take home) from [PT Encryption Technology Reliable](https://usenobi.com/) which was carried out within 2 days and using React Native
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
@@ -42,7 +19,6 @@ In making this project there are several tools that I use, both frameworks, IDEs
 * [WebStrom](www.jetbrains.com/webstorm)
 * [Postman](https://www.postman.com/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -88,19 +64,12 @@ After installing the compiler and package manager, here are the steps to run thi
    yarn start && yarn android
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- USAGE EXAMPLES -->
-
-<!-- CONTACT -->
-
 ## Contact
 
 Dhiya Reksa K B - dhiyodev7@gmail.com
 
 Project Link: [GitHub - dhiyo7/dhiyo-nobi](https://github.com/dhiyo7/dhiyo-nobi)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
@@ -109,6 +78,5 @@ Project Link: [GitHub - dhiyo7/dhiyo-nobi](https://github.com/dhiyo7/dhiyo-nobi)
 Thank you for giving the opportunity to test at this company and thank you to all the teams involved.
 On the other hand, for this project I just tried ***React Query*** because for me this is an interesting thing
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
