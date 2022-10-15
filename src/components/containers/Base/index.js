@@ -9,7 +9,6 @@ export default class Base extends Component {
   constructor(props) {
     super(props);
     this.state = {};
-
     this.renderHeader = this.renderHeader.bind(this);
     this.renderMain = this.renderMain.bind(this);
     this.renderBottom = this.renderBottom.bind(this);
@@ -46,7 +45,6 @@ export default class Base extends Component {
     if (renderBottom) {
       return renderBottom;
     }
-
     return <View />;
   }
 

@@ -35,7 +35,6 @@ export default {
     width: 22,
   },
   errorMessage: {
-    color: 'white',
     fontStyle: 'italic',
     marginTop: 8,
     color: Colors.text.gold,
