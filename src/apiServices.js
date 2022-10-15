@@ -17,11 +17,9 @@ if (__DEV__) {
 
   api.interceptors.response.use(
     response => {
-      console.log('<<< Response:', response);
       return response;
     },
     error => {
-      console.log('*** ', error);
       return Promise.reject(error);
     },
   );
